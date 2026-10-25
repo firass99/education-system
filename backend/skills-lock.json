@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "repo-into-notes-pdf": {
+      "source": "firass99/daily-helpful-skills",
+      "sourceType": "github",
+      "skillPath": "skills/repo-into-notes-pdf/SKILL.md",
+      "computedHash": "95ac81a88a0077a1fa1a4c25854fb959e65c999f60b8c1a0f5c6683359c79384"
+    }
+  }
+}
